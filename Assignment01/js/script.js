@@ -19,4 +19,4 @@
 // x = 20; x *= 5; console.log(x);
 // let x = 20 % 3; x /= 1; console.log(x); // not let y = 20 / 3; y /= 1; console.log(y);
 // console.log(5 > 3 && 2 < 4); // greater than, and, less than. True
-// console.log(10 === '10' || 7 <= 5); // exact type equal, or, less than or equal. False
+// console.log(10 === '10' || 7 <= 5); // exact type equal, or, less than or equal. False. Done
