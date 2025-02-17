@@ -11,4 +11,4 @@
 // alert("Hello " + "Keoni Sanchez" + ", welcome to the JavaScript class!");
 // let name = "Keoni Sanchez"; alert("Hello " + name + ", welcome to the JavaScript class!"); // name is resrved word so this is a bad idea -- let userName = "Keoni Sanchez"; alert("Hello " + userName + ", welcome to the JavaScript class!");
 // let course = "JavaScript"; alert("Hello " + name + ", welcome to the " + course + " class!");
-alert("Hello " + name + ".\nWelcome to the " + course + " class!");
+console.log("Hello class!");
