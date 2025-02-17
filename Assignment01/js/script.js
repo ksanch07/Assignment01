@@ -3,3 +3,5 @@
 // let complexVariableExpression1 = (5 + 3) * 2, complexVariableExpression2LongOfName = Math.pow(2, 3) + Math.sqrt(16)
 // let strFirstName, LastName, strAddress, City, State, strZipCode, YourAge, ReferralSource, boolMayWeContactYou;
 // strFirstName = "Keoni"; LastName = "Sanchez"; strAddress = "123 Main St";
+// let variable = 27 + " things to log"; console.log(variable); // Coerced result = 27 things to log
+

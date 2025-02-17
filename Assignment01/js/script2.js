@@ -1,0 +1,22 @@
+let someMonth; function theMonth() {}; let currentMonth; let summerMonth; let myLibraryFunction;
+let numericLiteral = 42; let stringLiteral = "Hello, world!"; let booleanLiteral = true; let nullLiteral = null;
+let complexExpression1 = (5 + 3) * 2; let complexExpression2 = Math.pow(2, 3) + Math.sqrt(16);
+let strFirstName, strLastName, strAddress, strCity, strState, strZipCode, numYourAge, strReferralSource, boolMayWeContactYou;
+strFirstName = "John"; strLastName = "Doe"; strAddress = "123 Main St";
+let variable; console.log(variable + 5); // Coerced result
+let boolString = true + " is a boolean"; console.log(boolString); let numBoolean = 5 + true; console.log(numBoolean);
+let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."'; console.log(someString);
+let nullValue = null; console.log(nullValue); let undefinedValue; console.log(undefinedValue);
+console.log(typeof "Hello"); console.log(typeof 42); console.log(typeof true); console.log(typeof {}); console.log(typeof undefined);
+alert("Hello " + "Zak Ruvalcaba" + ", welcome to the JavaScript class!");
+let name = "Your Name"; alert("Hello " + name + ", welcome to the JavaScript class!");
+let course = "JavaScript"; alert("Hello " + name + ", welcome to the " + course + " class!");
+alert("Hello " + name + ".\nWelcome to the " + course + " class!");
+name = prompt("What is your name?"); alert("Hello " + name + ".\nWelcome to the " + course + " class!");
+course = prompt("What class are you taking?"); alert("Hello " + name + ".\nWelcome to the " + course + " class!");
+let x = 10; let y = 20; console.log(x + y);
+x = 20; x += 20; console.log(x);
+x = 20; x *= 5; console.log(x);
+x = 20 % 3; x /= 1; console.log(x);
+console.log((5 > 3) && (2 < 4));
+console.log((5 > 3) || (2 > 4));
